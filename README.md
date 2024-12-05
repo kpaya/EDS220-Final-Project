@@ -1,7 +1,7 @@
 # Visualizing the Impact of the Thomas Fire
  
 ## About
-This repository is dedicated to visualizing the impact of the Thomas Fire, which burned over 280,000 acres in Ventura and Santa Barbara counties in December 2017. By utilizing satellite-based false color imagery from remote sensing data and air quality index (AQI) historical data. This project highlights the fire scar, burn severity, and the before and after analysis of the air quality time series.
+This repository is dedicated to visualizing the impact of the Thomas Fire, which burned over 280,000 acres in Ventura and Santa Barbara counties in December 2017, by utilizing satellite-based false color imagery from remote sensing data and air quality index (AQI) historical data. This project highlights the fire scar, burn severity, and the before and after analysis of the air quality time series.
 
 ## Repository Structure
 The repository is organized as follows:
